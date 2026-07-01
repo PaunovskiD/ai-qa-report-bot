@@ -40,6 +40,7 @@ Found 3 critical bugs and 2 minor issues.
 Pending test cases on Module Y.
 
 Risk Level: Medium Risk
+```
 
 ## Project Goal
 
