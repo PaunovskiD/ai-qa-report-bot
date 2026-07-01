@@ -49,7 +49,7 @@ The goal of this project is to show how simple automation can improve QA reporti
 
 ![AI QA Report Bot Screenshot](VSC.png)
 
-## What I Learned
+## What I Learned 
 
 - How to structure a simple Python automation project
 - How to extract information from QA reports
