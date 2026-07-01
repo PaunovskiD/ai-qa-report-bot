@@ -56,3 +56,11 @@ The goal of this project is to show how simple automation can improve QA reporti
 - How to extract information from QA reports
 - How to apply basic risk classification logic
 - How AI-inspired workflows can support software testing processes
+
+## Future Improvements
+
+- Add support for PDF QA reports
+- Export summaries to Excel
+- Integrate with Jira API
+- Add automatic email notifications
+- Build a web interface using Streamlit
